@@ -1,5 +1,6 @@
 # AUTOMATED-MEDIA-PLAYER
 Mini Project -2
+
 ** Overview:
 
 --> Automated Media Player is a Python-based project that utilizes computer vision and gesture recognition to control media playback on a computer.
